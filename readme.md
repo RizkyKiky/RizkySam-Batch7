@@ -1,5 +1,7 @@
 TUGAS MANDIRI WEEK 1
 
+MEMBUAT AKUN GITHUB
+
 PENGERTIAN FRONT-END :
 
 Front-end adalah sebuah peran bagi seorang pengembang yang bertugas membuat tampilan antar muka produk menjadi lebih interaktif dan juga menerapkan kaidah pengalaman pengguna didalamnya. Seorang Front-end juga bertugas mengkonsumsi API dan juga menghubungkan sistem ke beberapa lingkungan perangkat.
