@@ -15,5 +15,6 @@ Back-end adalah sebuah peran bagi seorang developer yang bertugas membuat dan me
 AGILE SCRUM :
 
 ![alt text](https://github.com/RizkyKiky/RizkySam-Batch7/blob/main/screenshoot/agile%20scrum.png?raw=true)
+source : https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
 
 Agile Scrum adalah salah satu method dalam SDLC (Software Development Life Cycle) yaitu siklus hidup bagi pengembangan perangkat lunak yang terdiri dari beberapa tahap yaitu :
