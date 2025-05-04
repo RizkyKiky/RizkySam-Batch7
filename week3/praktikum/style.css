@@ -1,0 +1,36 @@
+body {
+  display: block;
+}
+
+header {
+  display: flex;
+  background-color: blue;
+  color: white;
+  justify-content: center;
+  font-weight: bold;
+}
+
+main {
+  display: flex;
+  background-color: #f0f8ff;
+  justify-content: space-between;
+}
+
+.photoProfile {
+  display: flex;
+  width: 200px;
+  height: 200px;
+}
+
+footer {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .flex-direction {
+    flex-direction: row-reverse;
+  }
+}
