@@ -13,10 +13,10 @@ export default function QuestForm(props) {
   }
   return (
     <div>
-      <p>Quest Tracker</p>
+      <h2>Quest Tracker</h2>
       <div>
         <p>Add your new quest :</p>
-        <input onChange={handleChangeQuest}></input>
+        <input onChange={handleChangeQuest} placeholder="input your quest"></input>
         <button onClick={addNewQuest} type="button">
           Add Quest
         </button>

@@ -2,6 +2,7 @@ import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import QuestForm from './QuestForm';
+import QuestList from './QuestList';
 
 function App() {
   const [dataQuest, setDataQuest] = useState([
@@ -39,6 +40,7 @@ function App() {
   return (
     <div>
       <QuestForm dataQuest={dataQuest} setDataQuest={setDataQuest} />
+      <QuestList dataQuest={dataQuest} setDataQuest={setDataQuest} />
     </div>
   );
 }
